@@ -1,7 +1,7 @@
-:root{
-    --bg-color:#E9FF97;
-    --primary-color:#FF7EE2;
-    --secudary-color:#FFA38F;
+root{
+    --bg-color:#a5cafa;
+    --primary-color:#b85fdf;
+    --secudary-color:#530561;
     --font:"Edu AU VIC WA NT Guides", cursive;
 }
 
@@ -54,3 +54,4 @@ footer {
     height: 3rem;
     margin-top: 2rem;
 }
+
